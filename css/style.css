@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+header ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  background: rgb(70, 53, 53);
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+header a {
+  color: rgb(165, 70, 70);
+  text-transform: uppercase;
+  text-decoration: none;
+}
