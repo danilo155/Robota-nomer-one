@@ -24,6 +24,7 @@ footer {
 }
 footer a {
   text-decoration: none;
+  text-transform: uppercase;
 }
 footer ul {
   list-style: none;
